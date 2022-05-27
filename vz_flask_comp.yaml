@@ -9,7 +9,7 @@ spec:
     kind: ContainerizedWorkload
     metadata:
       name: pythonflask
-      namespace: knote
+      namespace: python
       labels:
         app: pythonflask
         version: v1
