@@ -20,7 +20,7 @@ spec:
                 apiVersion: oam.verrazzano.io/v1alpha1
                 kind: IngressTrait
                 metadata:
-                  name: springboot-ingress
+                  name: pythonflask-ingress
                 spec:
                   rules:
                     - paths:
